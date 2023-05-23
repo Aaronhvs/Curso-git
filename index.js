@@ -57,10 +57,7 @@ const getBlogContent = async () => {
 
 getBlogContent();
 
-<<<<<<< HEAD
 const loadadds = () => {
   console.log("adds loaded") ;
 }
 
-=======
->>>>>>> 1671071680b3ea321c0f3f69262462b2f75bd134
